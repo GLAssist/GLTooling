@@ -1,0 +1,13 @@
+D:\GITRepo\GLTooling\GLToolingClient\GitBusiness\bin\Debug\netcoreapp2.1\GitBusiness.deps.json
+D:\GITRepo\GLTooling\GLToolingClient\GitBusiness\bin\Debug\netcoreapp2.1\GitBusiness.dll
+D:\GITRepo\GLTooling\GLToolingClient\GitBusiness\obj\Debug\netcoreapp2.1\GitBusiness.csproj.CoreCompileInputs.cache
+D:\GITRepo\GLTooling\GLToolingClient\GitBusiness\obj\Debug\netcoreapp2.1\GitBusiness.AssemblyInfoInputs.cache
+D:\GITRepo\GLTooling\GLToolingClient\GitBusiness\obj\Debug\netcoreapp2.1\GitBusiness.AssemblyInfo.cs
+D:\GITRepo\GLTooling\GLToolingClient\GitBusiness\obj\Debug\netcoreapp2.1\GitBusiness.csprojAssemblyReference.cache
+D:\GITRepo\GLTooling\GLToolingClient\GitBusiness\bin\Debug\netcoreapp2.1\GitBusiness.pdb
+D:\GITRepo\GLTooling\GLToolingClient\GitBusiness\obj\Debug\netcoreapp2.1\GitBusiness.dll
+D:\GITRepo\GLTooling\GLToolingClient\GitBusiness\obj\Debug\netcoreapp2.1\GitBusiness.pdb
+D:\GITRepo\GLTooling\GLToolingClient\GitBusiness\bin\Debug\netcoreapp2.1\NativeBinaries\amd64\git2-e0902fb.dll
+D:\GITRepo\GLTooling\GLToolingClient\GitBusiness\bin\Debug\netcoreapp2.1\NativeBinaries\amd64\git2-e0902fb.pdb
+D:\GITRepo\GLTooling\GLToolingClient\GitBusiness\bin\Debug\netcoreapp2.1\NativeBinaries\x86\git2-e0902fb.dll
+D:\GITRepo\GLTooling\GLToolingClient\GitBusiness\bin\Debug\netcoreapp2.1\NativeBinaries\x86\git2-e0902fb.pdb
